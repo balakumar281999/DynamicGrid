@@ -11,7 +11,7 @@ function navSlide() {
   
   
   $(document).ready(function() {
-    $("#banner").slick({
+    $("#bannersection").slick({
       dots: true,
       infinite: true,
       slidesToShow: 1,
