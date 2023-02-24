@@ -187,10 +187,7 @@
   .bannersection{
     display: flex;
     height: 350px;
-    overflow: auto;
-   
-    width: 1400px;
-   
+    overflow: auto;  
   }
   .banner:hover .bannersection{
     transform: translateX(100%); 
